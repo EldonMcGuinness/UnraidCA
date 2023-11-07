@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/EldonMcGuinness/UnraidDriveStandbyMonitor/master/DriveStandbyMonitor.plg</PluginURL>
+<PluginAuthor>Eldon McGuinness</PluginAuthor>
+<Beta>False</Beta>
+<Category>Other:</Category>
+<Name>Drive Standby Monitor</Name>
+<Description>
+    This plugin allows you to monitor the standby status of your drives at a regular interval.
+</Description>
+<Support></Support>
+<Icon></Icon>
+<IconFA>leaf</IconFA>
+</Containers>
