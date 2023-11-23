@@ -8,7 +8,7 @@
 <Description>
     This plugin allows you to monitor the standby status of your drives at a regular interval.
 </Description>
-<Support></Support>
+<Support>https://forums.unraid.net/topic/147982-drive-standby-monitor-plugin-support/</Support>
 <Icon>https://cloud.richards-rogan.family/s/fFZeaD3ypnxxBCm/download/logo.png</Icon>
 <IconFA>leaf</IconFA>
 </Containers>
